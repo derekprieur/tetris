@@ -1,5 +1,5 @@
 # Tetris
-Hello! I made this basic Tetris game to get more practice with JavaScript/HTML/CSS. The original project that I used as a guide can be found here https://www.youtube.com/watch?v=w1JJfK09ujQ (thanks Ania!). Below is a list of most of the concepts used:
+Hello! I made this basic Tetris game to get more practice with JavaScript/HTML/CSS. The original project that I used as a guide can be found here https://www.youtube.com/watch?v=w1JJfK09ujQ (thanks Ania!). Working version can be found on my portfolio https://derekprieur.dev/. Below is a list of most of the concepts used:
 ## JavaScript
   - querySelector()
   - getElementById()
