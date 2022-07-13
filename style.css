@@ -84,3 +84,16 @@ body {
     cursor: pointer;
     font-family: 'Nunito', sans-serif;
 }
+
+.directions {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.directions>h3 {
+    font-size: 24px;
+    border-bottom: 1px solid black;
+    width: 93px;
+    margin-bottom: 10px;
+}
